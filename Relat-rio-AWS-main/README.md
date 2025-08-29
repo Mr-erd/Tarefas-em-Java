@@ -48,3 +48,13 @@ Em vez de provisionar servidores EC2 para hospedar contêineres, você paga apen
 
 Reduz a complexidade e o tempo de gerenciamento, permitindo que a equipe de TI se concentre em funcionalidades em vez de em servidores.]
 ```
+
+##Conclusão
+
+```
+O uso de AWS Lambda e AWS Fargate permite a execução de código e contêineres sem a necessidade de manter servidores dedicados e com custos por uso, eliminando gastos com infraestrutura ociosa. Já as Amazon EC2 Spot Instances oferecem uma oportunidade de economia substancial para cargas de trabalho que não exigem alta disponibilidade.
+
+Em conclusão, a adoção desses serviços não apenas reduz custos imediatos, mas também impulsiona a empresa em direção a uma arquitetura mais moderna e resiliente. Isso permite que a equipe de TI da Abstergo Industries se concentre em inovar e desenvolver soluções de valor para o negócio, em vez de gerenciar e manter a infraestrutura de servidores.
+```
+
+responsavel pelo projeto :  Eugênio Santana
